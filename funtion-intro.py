@@ -3,7 +3,7 @@
 
 # - helps to reuse already written lines of code
 
-# Component of a function
+# Components of a function
 # ------------------
 
 # 1. Defining a function
