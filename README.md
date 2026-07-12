@@ -1,7 +1,7 @@
 # Python
 Python for beginners
 
-# Python & Data Analysis Learning Journey
+## Python & Data Analysis Learning Journey
 
 Welcome to my personal repository dedicated to mastering Python fundamentals, Object-Oriented Programming (OOP), and Data Analysis with Pandas. 
 
